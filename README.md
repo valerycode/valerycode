@@ -1,14 +1,12 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> My name is Valeriia
 
-Python Developer
+I'm a Python Developer
 ------------------------
-
-* 🌍  I'm based in Astana, Kazakhstan
 
 [<img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
-### Skills
+## Skills
 
 
 <p align="left">
@@ -30,7 +28,7 @@ Python Developer
 </p>
 
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/valerycode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/valeriya-malysheva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
