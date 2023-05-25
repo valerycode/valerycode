@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> My name is Valeriia
 
-I'm a Python Developer
+### I'm a Python Developer with hands-on experience in designing RESTful APIs using FastAPI and Django Rest Framework, and developing web applications with Django and Flask. I am a team player with strong problem-solving and communication skills, and have experience collaborating with cross-functional teams.
 ------------------------
 
 [<img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
